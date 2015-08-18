@@ -15,10 +15,10 @@
  */
 
 
-define('WP_REDIS_HOST', 'igeneralstore.txebb7.0001.usw2.cache.amazonaws.com');
+define('WP_REDIS_HOST', 'http://igeneralstore.txebb7.0001.usw2.cache.amazonaws.com');
 
-define('WP_HOME','iGeneralStore-ELB-LoadBalancer-864759033.us-west-2.elb.amazonaws.com');
-define('WP_SITEURL','iGeneralStore-ELB-LoadBalancer-864759033.us-west-2.elb.amazonaws.com');
+define('WP_HOME','http://iGeneralStore-ELB-LoadBalancer-864759033.us-west-2.elb.amazonaws.com');
+define('WP_SITEURL','http://iGeneralStore-ELB-LoadBalancer-864759033.us-west-2.elb.amazonaws.com');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
@@ -31,7 +31,7 @@ define('DB_USER', 'iGeneralStore');
 define('DB_PASSWORD', 'iGeneralStore');
 
 /** MySQL hostname */
-define('DB_HOST', 'igeneralstore.cwo3uotprxax.us-west-2.rds.amazonaws.com');
+define('DB_HOST', 'http://igeneralstore.cwo3uotprxax.us-west-2.rds.amazonaws.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
