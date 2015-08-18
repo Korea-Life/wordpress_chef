@@ -17,8 +17,8 @@
 
 define('WP_REDIS_HOST', 'igeneralstore.txebb7.0001.usw2.cache.amazonaws.com');
 
-define('WP_HOME','d83ld1am66xyg.cloudfront.net');
-define('WP_SITEURL','d83ld1am66xyg.cloudfront.net');
+define('WP_HOME','iGeneralStore-ELB-LoadBalancer-864759033.us-west-2.elb.amazonaws.com');
+define('WP_SITEURL','iGeneralStore-ELB-LoadBalancer-864759033.us-west-2.elb.amazonaws.com');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
