@@ -15,7 +15,7 @@
  */
 
 
-define('WP_REDIS_HOST', 'igeneralstore.i5m2jy.0001.apse1.cache.amazonaws.com');
+//define('WP_REDIS_HOST', 'igeneralstore.i5m2jy.0001.apse1.cache.amazonaws.com');
 
 /*
 define('WP_HOME','http://iGeneralStore-440036848.ap-southeast-1.elb.amazonaws.com');
