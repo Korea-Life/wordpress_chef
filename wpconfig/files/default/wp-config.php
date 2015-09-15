@@ -15,12 +15,8 @@
  */
 
 
-//define('WP_REDIS_HOST', 'igeneralstore.i5m2jy.0001.apse1.cache.amazonaws.com');
+//define('WP_REDIS_HOST', '');
 
-/*
-define('WP_HOME','http://iGeneralStore-440036848.ap-southeast-1.elb.amazonaws.com');
-define('WP_SITEURL','http://iGeneralStore-440036848.ap-southeast-1.elb.amazonaws.com');
-*/
 define('WP_HOME','http://www.i-generalstore.com');
 define('WP_SITEURL','http://www.i-generalstore.com');
 
@@ -35,7 +31,7 @@ define('DB_USER', 'iGeneralStore');
 define('DB_PASSWORD', '');
 
 /** MySQL hostname */
-define('DB_HOST', 'igeneralstore.clig6xe8shdr.ap-southeast-1.rds.amazonaws.com');
+define('DB_HOST', '');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
