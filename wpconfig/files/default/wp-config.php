@@ -32,7 +32,7 @@ define('DB_NAME', 'iGeneralStore');
 define('DB_USER', 'iGeneralStore');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'iGeneralStore');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'igeneralstore.clig6xe8shdr.ap-southeast-1.rds.amazonaws.com');
